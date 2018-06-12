@@ -13,7 +13,10 @@ Desktop.ini
 *.swp
 xcuserdata
 xcshareddata
+.vs
 
 # Unity
 /Library
 /Temp
+/Builds
+/obj
