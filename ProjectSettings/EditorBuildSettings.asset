@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Ripples.unity
     guid: 12d3ece958ca9ce40a827d550a82a7ce
   - enabled: 1
+    path: Assets/Theremin.unity
+    guid: 091b726e97ef3104b9299dd349305d91
+  - enabled: 1
     path: Assets/Blot.unity
     guid: fe718e74723f6b141a88b97b35910d26
   - enabled: 1

@@ -24,6 +24,9 @@ public class SceneSwitcher : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Alpha3))
         {
             SceneManager.LoadScene("Blot");
+        } else if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            SceneManager.LoadScene("Theremin");
         }
     }
 }
